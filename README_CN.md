@@ -68,7 +68,7 @@
 
 完成后，滚动到编辑页面底部的 `Commit changes` 部分。添加一条简短的消息解释你的更改，比如 "Add my introduction"，然后点击 `Commit changes`。
 
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png)
+<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
 
 一旦你点击 `Commit changes`，你的更改将自动发布到你的 GitHub Pages 网站。刷新页面以查看你的新更改在实际中的效果。
 
@@ -79,3 +79,9 @@
 通过 [创建你自己的个性化 Octocat 表情](https://myoctocat.com/build-your-octocat/) 或 [从我们的徽标库中选择不同的 Octocat gif](https://octodex.github.com/)，更改你的 GitHub Pages 网站上的占位符 Octocat gif。将该图像添加到 `index.html` 文件的第 12 行，替换 `<img src=` 链接。
 
 想要在你的 GitHub Pages 网站上添加更多代码和有趣的样式吗？[按照这些说明](https://github.com/github/personal-website) 构建一个完整的静态网站。
+
+![octocat](./images/create-octocat.png)
+
+## 关于 GitHub 的一切你需要知道的
+
+开始是最难的部分。如果在使用 GitHub 开始时有任何你想了解的内容，请尝试搜索 [GitHub 帮助](https://help.github.com)。我们的文档涵盖了从更改仓库设置到通过命令行配置 GitHub 的各种教程。
